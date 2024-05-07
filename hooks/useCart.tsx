@@ -1,3 +1,4 @@
+'use client'
 import { CardProductType } from "@/app/product/[productId]/ProductDetails";
 import { useEventCallback } from "@mui/material";
 import { type } from "os";
